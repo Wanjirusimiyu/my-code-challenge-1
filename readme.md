@@ -30,3 +30,4 @@ Calculate the payee; i.e. Tax, NHIF Deductions, NSSF Deductions, Gross Salary an
 NOTE: Use KRA, NHIF and NSSF value provided below.[KRA TAX RATES] (https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
 [NSSF and NHIF rates] (https://www.aren.co.ke/payroll/taxrates.htm)
 
+# my-code-challenge-1
