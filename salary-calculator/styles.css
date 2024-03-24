@@ -13,22 +13,23 @@ body{
 h1{
     color: black;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 #box{
     position: absolute;
-    top: 60%;
-    bottom: 60%;
+    top: 0%;
+    bottom: 0%;
     left: 330%;
     width: 800px;
-    height: 400px;
+    height: 500px;
     background-color: rgba(129, 128, 75, 0.46);
     padding: 30px;
     font-size: 18px;
-    text-align: center;
+    text-align:center;
     margin-top: 50px;
     box-shadow: 0 0 80px rgba(5, 4, 4, 0.87);
     border-radius: 30px;
+    
 }
 h1, p, input, button {
     margin-bottom: 15px;
