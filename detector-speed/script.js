@@ -4,9 +4,9 @@ function checkSpeed() {
     let result = document.getElementById("result");
 
     if (speed <= 70) {
-        result.innerHTML = "Ok";
+        result.innerHTML = "OK";
     } else if (points > 12) {
-        result.innerHTML = "License suspended";
+        result.innerHTML = "LICENSE SUSPENDED!";
     } else {
         result.innerHTML = `Points: ${Math.floor(points)}`;
     }
